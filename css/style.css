@@ -1,0 +1,99 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#form{
+    margin: 20px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #222;
+    width: 230px;
+}
+
+
+/**{
+    box-sizing: border-box;
+}
+.wrapper{
+    width: 300px;
+    height: 350px;
+    padding: 15px;
+    margin: 20px;
+    background: deepskyblue;
+    border: 1px solid #222;
+}
+.field{
+    width: 80%;
+    height: 30px;
+    padding: 7px;
+}
+.add{
+    width: 15%;
+    height: 30px;
+    border: none;
+    background: green;
+    color: #fff;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.employee-list{
+    list-style: none;
+    padding-left: 0;
+    padding-top: 20px;
+}
+li{
+    position: relative;
+    padding: 5px;
+    background: #444;
+    color: #fff;
+    border-bottom: 1px solid;
+}
+.remove-btn{
+    !*   display: none; *!
+    position: absolute;
+    right: 5px;
+    text-decoration: none;
+    color: #000;
+}
+.remove-btn:hover{
+    display: block;
+}*/
